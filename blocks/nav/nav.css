@@ -1,0 +1,7 @@
+.nav{
+  border:2px solid green;
+   display :flex;
+ width   : 55rem;
+ margin: auto;
+ color:#FFF;
+}
